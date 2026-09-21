@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "claude/mvp-core-features-01XuMpP9Ls61LV1KNy4YUhSc",
+    "main"
+  ],
+  "parent": {
+    "claude/mvp-core-features-01XuMpP9Ls61LV1KNy4YUhSc": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "claude/mvp-core-features-01XuMpP9Ls61LV1KNy4YUhSc"
+  ]
+}
